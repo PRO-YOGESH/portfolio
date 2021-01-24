@@ -6,11 +6,14 @@ const db = low(adapter)
 db.defaults({ entries: [] }).write()
 
 function putEntry(entry) {
+    db.get('entries').push(entry).write()
+
 // TODO: store it locally
 }
 
 function getEntries() {
     return db.get('entries').value()
+    
 }
 
 module.exports = {

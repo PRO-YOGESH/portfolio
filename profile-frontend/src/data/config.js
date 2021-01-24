@@ -1,10 +1,10 @@
 
 module.exports = {
   // TODO: change your profile information here
-  name: "Ashok Kumar",
+  name: "Yogesh Rajwade",
   greeting: "Hey 👋",
-  greetingDescription: "I'm Ashok Kumar and I'm a Software Engineer!",
-  githubUrl: "https://github.com/ashokkumar95",
-  linkedinUrl: "https://linkedin.com/ashokkumar1",
-  cvLink: "https://docs.google.com/document/d/1E1234561NMyQA67890ygda7abcdefghijs1jBp7HFI0/",
+  greetingDescription: "I'm Yogesh Rajwade and I'm a Student as well as a Web Developer!",
+  githubUrl: "https://github.com/PRO-YOGESH?tab=repositories",
+  linkedinUrl: "https://www.linkedin.com/in/yogesh-rajwade-97450b1a6",
+  cvLink: "https://drive.google.com/file/d/17Q2hAx2M7497VJTXMbbRtdRWXZSslEEB/view?usp=drivesdk",
 };
